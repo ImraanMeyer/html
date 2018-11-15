@@ -1,9 +1,8 @@
 # Intro To HTML
 
-HTML, an Introduction to it's make up...
 
-HTML is a ....
-
+HTML is a markup language for creating a webpages and web applications.
+HTML stands for HyperText Markup Language
 ## Setting up your workspace
 
 - Open your terminal and launch the command
@@ -15,7 +14,6 @@ HTML is a ....
 ## Prevalent Technologies Used
 
  - HTML
- - CSS
 
 
 ### Other Technologies Used
@@ -25,8 +23,6 @@ Technologies and Tools Used:
 ```
 Languages:
 
-- CSS
-- SASS
 - HTML
 
 ```
@@ -45,6 +41,8 @@ Tools:
 - Base folders added
 - Readme Created
 - Live Link Created
+- Text formatting tags added
+- Updated Index.html 
 
 ## Contributors
 
